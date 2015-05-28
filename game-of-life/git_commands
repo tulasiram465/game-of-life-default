@@ -1,0 +1,108 @@
+  578  git version
+  919  git commit -a -m "Changes stars to pluses"
+  920  git push
+  921  git push  ritessh@https://github.com/ritessh/game-of-life-default
+  922  git login
+  923  git --help
+  924  git init
+  925  git push
+  926  git push https://github.com/ritessh/game-of-life-default
+  927  git push ritessh@https://github.com/ritessh/game-of-life-default
+  928  git config --global user.name "ritessh"
+  929  git config --global user.email "ritessh@hotmail.com"
+  930  git push
+  931  git config --list
+  936  git init
+  937  git status
+  938  git add .
+  939  git status
+  940  git commit -m "first commit"
+  941  git remote add origin https://github.com/ritessh/game-of-life-default/info/refs
+  942  git remote add origin https://github.com/ritessh/game-of-life-default
+  943  git push -u origin master
+  947  git clone https://github.com/wakaleo/game-of-life
+  948  git init
+  949  git status
+  950  git add .
+  951  git commit -m "first commit"
+  952  git remote add origin https://github.com/ritessh/game-of-life-default.git
+  953  git push -u origin master
+  954  rm .git
+  955  rm -rf .git
+  960  git add game-of-life
+  961  git init
+  964  git status
+  965  git config --list
+  966  git remote add game-of-life https://github.com/ritessh/game-of-life-default.git
+  967  git push
+  968  git push https://github.com/ritessh/game-of-life-default.git
+  972  git add ReadMe.txt 
+  973  git status
+  974  git commit -m “Add Readme.txt”
+  975  git commit -m "Add Readme.txt"
+  976  git remote add origin https://github.com/ritessh/game-of-life-default.git
+  977  git remote -v
+  978  vi .git
+  979  git help remote
+  980  git remote rm fetch
+  981  git remote rm puch
+  982  git remote rm https://github.com/wakaleo/game-of-life
+  983  git help remote
+  984  git remote rename wakaleo ritessh
+  985  git config --global  puch.default https://github.com/ritessh/game-of-life-default.git
+  986  git remote -v
+  987  git remote add origin https://github.com/ritessh/game-of-life-default.git
+  988  git push
+  992  rm -rf .git
+  993  git removte -
+  994  git removte -v
+  995  git remote -v
+  996  git init
+  997  git remote -v
+  998  git remote add origin https://github.com/ritessh/game-of-life-default.git
+  999  git remote -v
+ 1000  git push
+ 1001  git list
+ 1002  git config --list
+ 1003  git help config
+ 1005  git push
+ 1006  vi .git/config 
+ 1007  cp -p  .git/config  .git/config.orig
+ 1008  vi .git/config 
+ 1009  git push origin master
+ 1010  git remote set-url origin https://yourusername@github.com/user/repo.git
+ 1011  git remote set-url origin https://ritessh@github.com/ritessh/game-of-life-default.git
+ 1012  git push
+ 1013  cp .git/config.orig  .git/config
+ 1014  git remote set-url origin https://ritessh@github.com/ritessh/game-of-life-default.git
+ 1015  git push
+ 1016  git remo -v
+ 1017  git remote -v
+ 1018  git push origin master
+ 1020  git push origin master
+ 1021  git push 
+ 1026  git add ReadMe.txt 
+ 1027  git commit -m "Updated Readme"
+ 1028  git push 
+ 1030  rm -rf .git .gitignore 
+ 1032  git remote -v
+ 1034  git push 
+ 1037  git add ReadMe.txt 
+ 1038  git commit -m "Added ReadMe.txt"
+ 1039  git status
+ 1040  git add .
+ 1041  git push
+ 1042  git push fast-forwards
+ 1045  git init
+ 1046  git add .
+ 1047  git push
+ 1049  git remote set-url origin https://ritessh@github.com/ritessh/game-of-life-default.git
+ 1050  git remote -v
+ 1051  git remote add origin https://ritessh@github.com/ritessh/game-of-life-default.git
+ 1052  git remote -v
+ 1053  git push origin master
+ 1054  git commit -m 'initial commit'
+ 1055  git push origin master
+ 1056  git push 
+ 1057  git push --force
+ 1058  history | grep git >  git_commands
